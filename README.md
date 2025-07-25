@@ -5,7 +5,8 @@ A custom movie making config for HLAE in CS2.
 Make sure HLAE is installed with CS2.
 
 Place the .cfg file into your cfg directory in the game.
-it's usually somewhere here: steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
+it's usually somewhere here:
+steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 
 Launch HLAE with CS2.
 

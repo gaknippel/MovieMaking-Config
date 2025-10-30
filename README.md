@@ -1,5 +1,6 @@
 # MovieMaking-Config
 A custom movie making config for HLAE in CS2.
+https://github.com/advancedfx/advancedfx
 
 ## HOW TO USE
 Make sure HLAE is installed with CS2.  

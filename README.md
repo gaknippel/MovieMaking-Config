@@ -1,9 +1,9 @@
 # MovieMaking-Config
 A custom movie making config for HLAE in CS2.
-https://github.com/advancedfx/advancedfx
 
 ## HOW TO USE
 Make sure HLAE is installed with CS2.  
+https://github.com/advancedfx/advancedfx
 
 Place the .cfg file into your cfg directory in the game.  
 it's usually somewhere here:  
